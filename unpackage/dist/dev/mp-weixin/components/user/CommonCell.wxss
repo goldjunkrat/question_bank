@@ -1,0 +1,27 @@
+
+.common-cell-wrap{
+	
+	width: 750rpx;
+	height: 120rpx;
+
+	background-color: white;
+	border-radius: 10rpx;
+}
+.common-cell{
+	display: flex;
+	width: 700rpx;
+	margin-left: 25rpx;
+	line-height: 120rpx;
+	justify-content: space-between;
+	font-size: 40rpx;
+}
+.item{
+	display: flex;
+}
+.icon{
+	font-size: 40rpx;
+}
+.title{
+	margin-left: 20rpx;
+}
+

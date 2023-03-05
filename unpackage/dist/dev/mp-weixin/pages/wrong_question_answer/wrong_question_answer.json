@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "错题本-答题",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "question": "/components/question_answer/Question",
+    "bottom-nav": "/components/wrong_question_answer/BottomNavigation",
+    "submit-answer": "/components/question_answer/SubmitAnswer",
+    "last-or-next": "/components/wrong_question_answer/LastOrNext",
+    "analysis": "/components/question_answer/Analysis"
+  }
+}

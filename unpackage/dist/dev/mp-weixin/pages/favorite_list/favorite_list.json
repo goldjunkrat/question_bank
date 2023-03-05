@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "收藏夹",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "u-gap": "/node-modules/uview-ui/components/u-gap/u-gap",
+    "favorite-qusetion-type-list": "/components/favorite_list/FavoriteQuestionTypeList",
+    "favorite-list": "/components/favorite_list/FavoriteList",
+    "load-finish": "/components/wrong_question_list/LoadFinish"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "",
+                    "pathName": "pages/question_answer/question_answer_single",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": 1158,
+                    "chatroomUsernameInfo": {
+                        "groupName": "测试模拟群0",
+                        "chatroomUsername": "hegERS8cVbesQqJxPES594q20kQoB4uzBMN-s9Z1K6E@cr4dev"
+                    }
+                },
+                {
+                    "name": "错题答题页",
+                    "pathName": "pages/wrong_question_answer/wrong_question_answer",
+                    "query": "",
+                    "scene": null,
+                    "launchMode": "default"
+                }
+            ]
+        }
+    }
+}

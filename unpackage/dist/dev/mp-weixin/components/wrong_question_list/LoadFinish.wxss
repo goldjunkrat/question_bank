@@ -1,0 +1,12 @@
+
+.load-finish{
+	width: 650rpx;
+	height: 30rpx;
+	/* line-height: 100rpx; */
+	text-align: center;
+	margin: 0 auto;
+	color: #bebebe;
+	margin-top: 10rpx;
+}
+
+

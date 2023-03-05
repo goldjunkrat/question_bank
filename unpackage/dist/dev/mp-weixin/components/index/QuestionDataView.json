@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-line-progress": "/node-modules/uview-ui/components/u-line-progress/u-line-progress",
+    "question-account": "/components/index/QuestionAccount",
+    "question-type": "/components/index/QuestionType",
+    "finish-type": "/components/index/FinishInType"
+  }
+}

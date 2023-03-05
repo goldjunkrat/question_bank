@@ -1,0 +1,30 @@
+
+.last-or-next-wrap.data-v-40fb92b1{
+	position: fixed;
+	width: 600rpx;
+	bottom: 150rpx;
+	left: 75rpx;
+	height: 100rpx;
+	display: flex;
+	justify-content: space-between;
+}
+.first-last-question-wrap.data-v-40fb92b1{
+	position: fixed;
+	width: 600rpx;
+	bottom: 150rpx;
+	left: 75rpx;
+	height: 100rpx;
+	display: flex;
+	justify-content: center;
+}
+.last-btn.data-v-40fb92b1,
+.next-btn.data-v-40fb92b1{
+	line-height: 100rpx;
+	width: 250rpx;
+	margin: 0;
+	border-radius: 30rpx;
+	background-color: rgb(252,183,80);
+	color: white;
+}
+
+

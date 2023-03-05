@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "中药学",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "question": "/components/question_answer/Question",
+    "bottom-nav": "/components/question_answer/BottomNavigation",
+    "submit-answer": "/components/question_answer/SubmitAnswer",
+    "last-or-next": "/components/question_answer/LastOrNext",
+    "analysis": "/components/question_answer/Analysis"
+  }
+}

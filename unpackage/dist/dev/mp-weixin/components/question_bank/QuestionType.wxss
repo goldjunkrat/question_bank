@@ -1,0 +1,30 @@
+
+.type-wrap{
+	margin-top: 100rpx;
+	height: 500rpx;
+	width: 750rpx;
+	/* background-color: #007AFF; */
+}
+.type{
+	height: 500rpx;
+	width: 750rpx;
+	display: flex;
+	flex-wrap: wrap;
+}
+.type-item{
+	width: 250rpx;
+	height: 250rpx;
+	flex-shrink: 0;
+	
+	text-align: center;
+}
+.type-item>view{
+	
+	margin-top: 107rpx;
+	/* line-height: 250rpx; */
+}
+.type-item>view>view{
+	font-size: 70rpx;
+}
+
+

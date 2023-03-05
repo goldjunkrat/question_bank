@@ -1,0 +1,1 @@
+<view class="type-wrap"><view class="type"><block wx:for="{{typeItem}}" wx:for-item="item" wx:for-index="index" wx:key="id"><view data-event-opts="{{[['tap',[['toQuestionList',[index]]]]]}}" class="type-item" bindtap="__e"><view><view class="{{[item.className]}}"></view>{{''+item.title+''}}</view></view></block></view></view>

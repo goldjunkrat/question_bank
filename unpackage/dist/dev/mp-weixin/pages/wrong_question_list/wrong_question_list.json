@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "错题本",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "u-gap": "/node-modules/uview-ui/components/u-gap/u-gap",
+    "wrong-question-type-list": "/components/wrong_question_list/WrongQuestionTypeList",
+    "wrong-question-list": "/components/wrong_question_list/WrongQuestionList",
+    "load-finish": "/components/wrong_question_list/LoadFinish"
+  }
+}

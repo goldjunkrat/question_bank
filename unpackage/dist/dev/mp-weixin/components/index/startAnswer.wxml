@@ -1,0 +1,1 @@
+<view class="btn-wrap"><button data-event-opts="{{[['tap',[['sendRequest',['$event']]]]]}}" class="start-answer" bindtap="__e">开始刷题</button></view>

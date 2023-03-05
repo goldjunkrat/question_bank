@@ -1,0 +1,16 @@
+
+.btn-wrap {
+	width: 700rpx;
+	height: 100rpx;
+	margin-top: 100rpx;
+	/* background-color: rgb(42,75,113); */
+}
+.start-answer {
+	width: 700rpx;
+	height: 100rpx;
+	background-color: rgb(42, 75, 113);
+	line-height: 100rpx;
+	font-size: 50rpx;
+	color: white;
+}
+

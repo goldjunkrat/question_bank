@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "wrong-question-list": "/components/wrong_question_list/WrongQuestionList",
+    "question-bank-list": "/components/question_bank_list/QuestionBankList",
+    "load-finish": "/components/wrong_question_list/LoadFinish"
+  }
+}

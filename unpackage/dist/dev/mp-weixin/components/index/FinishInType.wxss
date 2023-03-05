@@ -1,0 +1,23 @@
+
+.finish-type-wrap{
+	width: 650rpx;
+	margin-left: 25rpx;
+	/* margin-top: 50rpx; */
+	height: 120rpx;
+	padding-top: 60rpx;
+	box-sizing: border-box;
+	border-bottom: 4rpx rgb(105,121,140) solid;
+}
+.texts{
+	color: rgb(185,182,188);
+}
+.already-study,
+.need-to-study
+{
+	font-size: 40rpx;
+	display: inline;
+}
+.login-text{
+	color: rgb(88,107,149);
+}
+

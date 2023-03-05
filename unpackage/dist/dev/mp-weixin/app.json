@@ -1,0 +1,49 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/question_bank_list/question_bank_list",
+        "pages/wrong_question_answer/wrong_question_answer",
+        "pages/favorite_list/favorite_list",
+        "pages/wrong_question_list/wrong_question_list",
+        "pages/question_answer/question_answer_single",
+        "pages/question_bank/question_bank",
+        "pages/user/user",
+        "pages/question_record/question_record",
+        "pages/favorite_question_answer/favorite_question_answer"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#2f5076",
+        "enablePullDownRefresh": true,
+        "backgroundColor": "#eaeaea"
+    },
+    "tabBar": {
+        "color": "#000000",
+        "selectedColor": "#007AFF",
+        "borderStyle": "black",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "主页",
+                "iconPath": "static/index.png",
+                "selectedIconPath": "static/index_selected.png"
+            },
+            {
+                "pagePath": "pages/question_bank/question_bank",
+                "text": "题库",
+                "iconPath": "static/question_bank.png",
+                "selectedIconPath": "static/question_bank_selected.png"
+            },
+            {
+                "pagePath": "pages/user/user",
+                "text": "我的",
+                "iconPath": "static/user.png",
+                "selectedIconPath": "static/user_selected.png"
+            }
+        ]
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,23 @@
+
+.question-type-wrap {
+	width: 650rpx;
+	height: 120rpx;
+	border-bottom: solid 2rpx rgb(221, 221, 221);
+	margin-left: 25rpx;
+	margin-top: 50rpx;
+}
+.pick-view{
+	width: 200rpx;
+	height: 120rpx;
+	margin: 0 auto;
+}
+picker-view-column view{
+	font-size: 40rpx;
+	line-height: 60rpx;
+	text-align: center;
+	/* border: none; */
+	outline: none;
+}
+
+
+

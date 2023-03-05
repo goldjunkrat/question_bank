@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-scroll-list": "/node-modules/uview-ui/components/u-scroll-list/u-scroll-list"
+  },
+  "component": true
+}

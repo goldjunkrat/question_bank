@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "历史记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-ec-canvas": "/pages/question_record/uni-ec-canvas/uni-ec-canvas",
+    "record-question-list": "/components/question_record/RecordQuestionList",
+    "load-finish": "/components/wrong_question_list/LoadFinish"
+  }
+}

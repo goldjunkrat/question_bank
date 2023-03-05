@@ -1,0 +1,24 @@
+
+.container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.top-part{
+	width: 750rpx;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	background-color: white;
+}
+.search-wrap{
+	margin-top: 20rpx;
+}
+.wrong-question-list-wrap{
+	margin-top: 100rpx;
+}
+.load-finish{
+	margin-top: 10rpx;
+}
+

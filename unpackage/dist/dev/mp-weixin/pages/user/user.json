@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "big-cell": "/components/user/BigCell",
+    "common-cell": "/components/user/CommonCell"
+  }
+}

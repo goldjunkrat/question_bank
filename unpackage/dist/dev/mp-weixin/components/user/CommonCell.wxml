@@ -1,0 +1,1 @@
+<view class="common-cell-wrap"><view class="common-cell"><view class="item"><view class="{{[userCenterItem.iconName]}}"></view><view class="title">{{''+userCenterItem.title+''}}</view></view><u-icon vue-id="23ef2840-1" name="arrow-right" size="{{iconSize}}" bind:__l="__l"></u-icon></view></view>

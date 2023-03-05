@@ -1,0 +1,1 @@
+<view class="content"><question-data-view vue-id="8dd740cc-1" bind:__l="__l"></question-data-view><start-answer vue-id="8dd740cc-2" bind:__l="__l"></start-answer><view><button type="default">111</button></view></view>

@@ -1,0 +1,1 @@
+<view class="analysis-wrap"><view class="hr-box"></view><view class="answer-analysis"><view class="analysis-title">答案解析</view><view class="analysis-text"><view class="box"></view><text class="box-title">答案解析</text></view><view class="text-content">{{''+questionInfo.analysis+''}}<view class="higher"></view></view></view></view>

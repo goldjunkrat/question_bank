@@ -1,0 +1,1 @@
+<view class="submit-answer-wrap"><button class="submit-answer" disabled="{{noChoosenOption}}">确定</button></view>
